@@ -1,0 +1,7 @@
+1. Powtórka + SWITCH CASE
+2. if else if
+3. array - tablice struktury złożone w C++
+
+Skład tablicy: typ, nazwa, rozmiar [6] czyli ilość elementów, wartości i index elementów. Indexy w tablicy zawsze rozpoczynają się od 0
+
+zad dom utwórz tablice o typi int z 10 elementami oraz jedną tablice floatów z 10 liczbami. wyznacz sumę ich  różnice i  średnią arytmetyczną
